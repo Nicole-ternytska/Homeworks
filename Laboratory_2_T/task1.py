@@ -1,3 +1,7 @@
+"""
+Завдання: обчислити за формулою №22
+"""
+
 import func as f
 zminna_x = f.float_val_notone('Введіть значення Х ')
 n = f.int_val_N("Введіть значення n ")
